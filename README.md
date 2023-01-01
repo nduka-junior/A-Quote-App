@@ -1,6 +1,2 @@
 # neutralinojs-zero
-An empty Neutralinojs app, extend as you wish
-
-```
-neu create myapp --template neutralinojs/neutralinojs-zero
-```
+## A simple quote app built using neutralinojs with react for frontend
